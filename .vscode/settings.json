@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "stdio.h": "c",
+        "sdl.h": "c",
+        "sdl_timer.h": "c",
+        "sdl_image.h": "c",
+        "stdlib.h": "c",
+        "chrono": "c",
+        "variant": "c",
+        "stdbool.h": "c",
+        "atomic": "c",
+        "bitset": "c",
+        "time.h": "c",
+        "cube.h": "c"
+    }
+}

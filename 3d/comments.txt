@@ -1,0 +1,85 @@
+    // Pyramid pyramid;
+  
+  // pyramid.points[0].x = -200;
+    // pyramid.points[0].y = -100;
+    // pyramid.points[0].z = 1;
+
+    // pyramid.points[1].x = 0;
+    // pyramid.points[1].y = 250;
+    // pyramid.points[1].z = 1;
+
+    // pyramid.points[2].x = 200;
+    // pyramid.points[2].y = -100;
+    // pyramid.points[2].z = 1;
+
+    // pyramid.points[3].x = 0;
+    // pyramid.points[3].y = 5;
+    // pyramid.points[3].z = 2;
+  
+  
+  // SDL_RenderDrawLine(renderer,
+        //    x(pyramid.points[0].x, pyramid.points[0].z),
+        //    y(pyramid.points[0].y, pyramid.points[0].z),
+        //    x(pyramid.points[1].x, pyramid.points[1].z),
+        //    y(pyramid.points[1].y, pyramid.points[1].z));
+        // SDL_RenderDrawLine(renderer,
+        //    x(pyramid.points[1].x, pyramid.points[1].z),
+        //    y(pyramid.points[1].y, pyramid.points[1].z),
+        //    x(pyramid.points[2].x, pyramid.points[2].z),
+        //    y(pyramid.points[2].y, pyramid.points[2].z));
+        // SDL_RenderDrawLine(renderer,
+        //    x(pyramid.points[2].x, pyramid.points[2].z),
+        //    y(pyramid.points[2].y, pyramid.points[2].z),
+        //    x(pyramid.points[0].x, pyramid.points[0].z),
+        //    y(pyramid.points[0].y, pyramid.points[0].z));
+
+        // SDL_RenderDrawLine(renderer,
+        //    x(pyramid.points[0].x, pyramid.points[0].z),
+        //    y(pyramid.points[0].y, pyramid.points[0].z),
+        //    x(pyramid.points[3].x, pyramid.points[3].z),
+        //    y(pyramid.points[3].y, pyramid.points[3].z));
+        // SDL_RenderDrawLine(renderer,
+        //    x(pyramid.points[1].x, pyramid.points[1].z),
+        //    y(pyramid.points[1].y, pyramid.points[1].z),
+        //    x(pyramid.points[3].x, pyramid.points[3].z),
+        //    y(pyramid.points[3].y, pyramid.points[3].z));
+        // SDL_RenderDrawLine(renderer,
+        //    x(pyramid.points[2].x, pyramid.points[2].z),
+        //    y(pyramid.points[2].y, pyramid.points[2].z),
+        //    x(pyramid.points[3].x, pyramid.points[3].z),
+        //    y(pyramid.points[3].y, pyramid.points[3].z));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        // CONNECT F + B
+            // SDL_RenderDrawLine(renderer,
+            //                    x(obstacles[i]->points[1].x, obstacles[i]->points[1].z),
+            //                    y(obstacles[i]->points[1].y, obstacles[i]->points[1].z),
+            //                    x(obstacles[i]->points[0].x, obstacles[i]->points[5].z),
+            //                    y(obstacles[i]->points[5].y, obstacles[i]->points[5].z));
+            // SDL_RenderDrawLine(renderer,
+            //                    x(obstacles[i]->points[1].x, obstacles[i]->points[1].z),
+            //                    y(obstacles[i]->points[1].y, obstacles[i]->points[1].z),
+            //                    x(obstacles[i]->points[0].x, obstacles[i]->points[5].z),
+            //                    y(obstacles[i]->points[5].y, obstacles[i]->points[5].z));
+            // SDL_RenderDrawLine(renderer,
+            //                    x(obstacles[i]->˝points[2].x, obstacles[i]->points[2].z),
+            //                    y(obstacles[i]->points[2].y, obstacles[i]->points[2].z),
+            //                    x(obstacles[i]->points[6].x, obstacles[i]->points[6].z),
+            //                    y(obstacles[i]->points[6].y, obstacles[i]->points[6].z));
+            // SDL_RenderDrawLine(renderer,
+            //                    x(obstacles[i]->points[3].x, obstacles[i]->points[3].z),
+            //                    y(obstacles[i]->points[3].y, obstacles[i]->points[3].z),
+            //                    x(obstacles[i]->points[7].x, obstacles[i]->points[7].z),
+            //                    y(obstacles[i]->points[7].y, obstacles[i]->points[7].z));
