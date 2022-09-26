@@ -175,8 +175,8 @@ int main()
                                x(floorGrid[i].b.x, floorGrid[i].b.z),
                                y(floorGrid[i].b.y, floorGrid[i].b.z));
 
-            // floorGrid[i].a.z -= obstaclesVelocity;
-            // floorGrid[i].b.z -= obstaclesVelocity;
+            floorGrid[i].a.z -= obstaclesVelocity;
+            floorGrid[i].b.z -= obstaclesVelocity;
 
             if (left)
             {
